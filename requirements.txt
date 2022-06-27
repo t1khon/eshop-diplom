@@ -13,3 +13,4 @@ sqlparse
 toml
 wrapt
 gunicorn
+whitenoise
